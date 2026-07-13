@@ -71,6 +71,17 @@ Student ID: <b>ARI-F25-0868</b>
 Reach out to me: +923198293896
 
 <hr>
+<h2> I am maintaining Fall-25 Artificial Intelligence assets </h2><br>
+Name: <b> Muhammad Taha</b>
+<br>
+Institute: <b>Aror University of Art, Architecture, Design and Heritage, Sukkur</b>
+<br>
+Student ID: <b>ARI-F25-1141</b>
+<br>
+
+Reach out to me: +923220313753
+
+<hr>
 
 <h2>🛡️ Fall-25 Cyber Security Assets Maintainer</h2>
 
